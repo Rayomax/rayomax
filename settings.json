@@ -1,0 +1,12 @@
+{
+"token": "ODQ1OTA4OTI2OTMwNzQ3NDQy.YKn0FA.KE9oUiM8U7uSIxzFL6jPMVCvrSo",
+  "prefix" : "D/",
+  "owner" : ["812771700910325861","852720882659885087"],
+  "clientid" : "845908926930747442",
+  "clientsecret" : "M0wkyXrtkor-fZLsptMGT6koxvcXU4RE",
+  "clientcallback" : "https://discordspacelist.ga/callback",
+  "mongoURL" : "mongodb+srv://TestList:awadeowo@cluster0.vojcl.mongodb.net/botlist?retryWrites=true&w=majority",
+  "serverID": "838571606498082836",
+  "footer": "DiscordSpaceList &copy Todos Los Derechos Reservados",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Spanish"]
+}
